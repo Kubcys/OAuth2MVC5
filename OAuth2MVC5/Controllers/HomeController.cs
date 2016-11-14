@@ -11,6 +11,7 @@ namespace OAuth2MVC5.Controllers
         [RequireHttps]
         public ActionResult Index()
         {
+            //
             return View();
         }
 
